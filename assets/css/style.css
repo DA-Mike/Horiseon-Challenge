@@ -131,15 +131,16 @@ p {
     float: right;
     right: 5%;
     left: 95%;
-    max-width: 30px;
+    max-width: 50px;
     width: 100%;
     font-size: 12px;
     border-color: rgba(85, 85, 85, 0.2);
     background-color: rgb(100,100,100);
     padding: .5px;
     border-radius: 4px;
-
+    opacity: 65%;
 }
+
 /*On Hover Color Change*/
 #myBtn:hover {
     background-color: #7dbbf1;
