@@ -22,4 +22,4 @@ Mockup of webpage
 
 ## License
 
-Public
+No license
