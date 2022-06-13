@@ -18,9 +18,7 @@ https://da-mike.github.io/Horiseon-Challenge/
 
 Mockup of webpage
 
-    ```md
-    ![alt Mockup](/Mockups/01-html-css-git-homework-demo.png)
-    ```
+![Mockup](./Mockups/01-html-css-git-homework-demo.png)
 
 ## License
 
